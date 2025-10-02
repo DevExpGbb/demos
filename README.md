@@ -2,7 +2,9 @@
 
 A curated list of Demos from the World Wide Software & Developer Global Black Belt Team.
 
-## Ai Foundry Agents
+## GitHub and AI Foundry
+| Title | Description | Maintainer | Link |
+|---|---|---|---|
 | Azure AI Foundry Agent MCP Server | Azure AI Foundry Agent MCP Server with user isolation and session management. | @satomic | https://github.com/satomic/ai-foundry-agent-mcp |
 
 ## Platform Engineering
