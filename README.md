@@ -1,12 +1,12 @@
-# Software & Developer Global Black Belt Demos
+# Software & Developer Global Black Belt Samples
 
-A curated list of Demos from the World Wide Software & Developer Global Black Belt Team.
+A curated list of Samples from the World Wide Software & Developer Global Black Belt Team.
 
 ## About This Repository
 
-This repository serves as a centralized hub for demo links, providing easy access to various demonstrations that highlight:
+This repository serves as a centralized hub for sample links, providing easy access to various samples that highlight:
 
-- **GitHub Platform Features**: Demonstrations of GitHub's capabilities including Actions, Copilot, Advanced Security, Packages, and more
+- **GitHub Platform Features**: Samples of GitHub's capabilities including Actions, Copilot, Advanced Security, Packages, and more
 - **GitHub + Azure Integration**: Examples showcasing the synergy between GitHub and Microsoft Azure services
 - **Developer Workflows**: Best practices and patterns for modern software development
 
@@ -26,7 +26,7 @@ This repository serves as a centralized hub for demo links, providing easy acces
 |---|---|---|---|
 | Azure Container Apps Runner | An exmaple of using Azure Container Apps as a GitHub Action Runner Pool | [@raykao](https://github.com/raykao) | https://github.com/DevExpGbb/github-aca-runner |
 
-### Future Platform Demos
+### Future Platform Samples
 
 Coming soon - Links to demonstrations of GitHub's core platform features:
 - GitHub Actions for CI/CD
@@ -36,9 +36,9 @@ Coming soon - Links to demonstrations of GitHub's core platform features:
 - GitHub Projects and issue tracking
 - GitHub Codespaces for cloud development environments
 
-### GitHub + Azure Integration Demos
+### GitHub + Azure Integration Samples
 
-Coming soon - Links to demonstrations showing GitHub and Azure working together:
+Coming soon - Links to samples showing GitHub and Azure working together:
 - Deploying to Azure App Service with GitHub Actions
 - Azure Kubernetes Service (AKS) integration
 - Azure Functions deployment workflows
@@ -48,18 +48,18 @@ Coming soon - Links to demonstrations showing GitHub and Azure working together:
 
 ## How to Use This Repository
 
-Each demo link will include:
-- A brief description of what is demonstrated
+Each sample link will include:
+- A brief description of what is sample
 - Prerequisites and requirements
-- Link to the public demo repository
+- Link to the public sample repository
 - Key takeaways and learning objectives
 
 ## Contributing
 
-If you have a demo repository you'd like to add to this collection:
-1. Ensure the demo repository is public
-2. Add clear documentation in the demo repository
-3. Submit a pull request with the demo link and description
+If you have a sample repository you'd like to add to this collection:
+1. Ensure the sample repository is public
+2. Add clear documentation in the sample repository
+3. Submit a pull request with the sample link and description
 
 ## Contact
 
