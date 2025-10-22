@@ -13,7 +13,8 @@ This repository serves as a centralized hub for sample links, providing easy acc
 ## GitHub Copilot Labs
 | Title | Description | Maintainer | Link |
 |---|---|---|---|
-| GitHub Copilot Labs | GitHub Copilot Labs | [@jacwu](https://github.com/jacwu) | https://github.com/jacwu/github-materials/blob/main/github-copilot-lab/lab/en/00.GitHubCopilotLab.md| 
+| GitHub Copilot Labs | GitHub Copilot Labs | [@jacwu](https://github.com/jacwu) | https://github.com/jacwu/github-materials/blob/main/github-copilot-lab/lab/en/00.GitHubCopilotLab.md|
+| GitHub Copilot Office Hours | GitHub Copilot Office Hours in-a-box starter repo | [@raykao](https://github.com/raykao) | https://github.com/DevExpGbb/github-copilot-office-hours | 
 
 ## GitHub and AI Foundry
 | Title | Description | Maintainer | Link |
