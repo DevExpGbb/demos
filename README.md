@@ -10,6 +10,11 @@ This repository serves as a centralized hub for sample links, providing easy acc
 - **GitHub + Azure Integration**: Examples showcasing the synergy between GitHub and Microsoft Azure services
 - **Developer Workflows**: Best practices and patterns for modern software development
 
+## GitHub Copilot Labs
+| Title | Description | Maintainer | Link |
+|---|---|---|---|
+| GitHub Copilot Labs | GitHub Copilot Labs | [@jacwu](https://github.com/jacwu) | https://github.com/jacwu/github-materials/blob/main/github-copilot-lab/lab/en/00.GitHubCopilotLab.md| 
+
 ## GitHub and AI Foundry
 | Title | Description | Maintainer | Link |
 |---|---|---|---|
